@@ -94,6 +94,10 @@ Scan time: XXXXX ms
 
 *The exact open ports and scan time will vary depending on the services running on the target system.*
 
+## Project Screenshot
+
+![Port Scanner Output](image.png)
+
 ## Testing
 
 The program was tested using the following cases:
